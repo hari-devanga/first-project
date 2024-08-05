@@ -1,2 +1,2 @@
-# first-project
+# git/maven
 this is my first project
